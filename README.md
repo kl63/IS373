@@ -6,7 +6,8 @@ Welcome to the **Sports Article CMS** project! This platform allows users to man
 
 ## Table of Contents
 
-1. [Docker](./docs/docker.md)
+1. [Docker](./docs/docker.md)  
+   Docker automates the deployment and management of applications by packaging them into containers. Containers ensure consistency across environments and improve efficiency by sharing the host system's resources.
 2. [Containerization](./docs/containerization.md)
 3. [Kernel](./docs/kernel.md)
 4. [Threading](./docs/threading.md)
