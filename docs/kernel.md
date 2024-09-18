@@ -1,4 +1,4 @@
-—
+
 # Kernel Operating Systems
 
 ![Kernel OS Diagram](/images/Kernel_Layout.svg.png)
