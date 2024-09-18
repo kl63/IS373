@@ -15,7 +15,7 @@ Welcome to the Sports Article CMS project! This platform allows users to manage,
    - Docker automates the deployment and management of applications by packaging them into containers. Containers ensure consistency across environments and improve efficiency by sharing the host system's resources.
 2. [Chapter 2 - Containerization](./docs/containerization.md)
     - Containerization allows applications to run in isolated environments called containers, which are lightweight, efficient, and scalable by sharing the host OS kernel while maintaining their own file system, network, and process space.
-3. [Chpter 3 - Kernel](./docs/kernel.md)
+3. [Chapter 3 - Kernel](./docs/kernel.md)
     - The kernel is the core of an operating system, managing hardware resources and enabling applications to interact with hardware, while the application layer consists of user-facing software that relies on the kernel to perform tasks like resource allocation, process management, and device interaction
 4. [Chapter 4 - Threading](./docs/threading.md)
     - Threading allows a single process to perform multiple tasks simultaneously using separate threads, improving performance and responsiveness by sharing memory and requiring careful management to avoid conflicts like race conditions and deadlocks.
