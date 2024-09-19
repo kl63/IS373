@@ -24,7 +24,7 @@ Welcome to the Sports Article CMS project! This platform allows users to manage,
 6. [Chapter 6 - Virtualization](./docs/virtualization.md)
     - TO DO
 7. [Chapter 7 - The Twelve Factors](./docs/12factor.md)
-    - TO DO
+    - The Twelve-Factor App methodology defines best practices for building scalable and maintainable SaaS applications
 8. [Chapter 8 - Scaling](./docs/scaling.md)
     - TO DO
 
