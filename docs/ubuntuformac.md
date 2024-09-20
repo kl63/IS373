@@ -1,6 +1,6 @@
 # Install Ubuntu on a Mac: A Quick Guide
 
-![Kernel OS Diagram](/images/ubuntuformac.jpg)
+![Ubuntu for mac screenshot](/images/ubuntuformac.jpg)
 
 **Ubuntu** is an open-source operating system popular for development. Installing it on a Mac allows you to dual-boot or switch between macOS and Ubuntu, enhancing flexibility for development work.
 
