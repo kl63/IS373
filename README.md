@@ -29,6 +29,11 @@ Welcome to the Sports Article CMS project! This platform allows users to manage,
     - Vertical scaling adds more power (CPU, RAM, storage) to a single machine, making it simple to implement but limited by capacity and cost, with a risk of downtime if the machine fails. Horizontal scaling adds more machines, improving fault tolerance and traffic handling, but requires a more complex, distributed application design.
 9. [Chapter 9 - Docker vs. Kubernetes](./docs/dockervskubernetes.md)
     - Docker is simple, portable, and efficient for running containers but lacks advanced orchestration for large-scale applications. Kubernetes, though more complex, excels in managing and scaling container clusters with powerful orchestration and self-healing features.
+10. [Appendix 1 - Kevin's Reflection](./docs/kevins-reflection.md)
+    - In this section, I reflect on the valuable skills and lessons I gained while working on this assignment. 
+11. [Appendix 2 - Sebastian's Reflection]()
+    - In this section, I reflect on the valuable skills and lessons I gained while working on this assignment. 
+
 
 
 ---
