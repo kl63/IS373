@@ -1,6 +1,6 @@
 # Sports Article CMS
 <p align="center">
-  <img src="./images/sports.jpeg " alt="Docker Logo" style="width:100%; max-width:600px;">
+  <img src="./images/sports.jpeg " alt="Sports Intro" style="width:100%; max-width:600px;">
 </p>
 
 ## Introduction
