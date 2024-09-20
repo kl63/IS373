@@ -19,14 +19,16 @@ Welcome to the Sports Article CMS project! This platform allows users to manage,
     - The kernel is the core of an operating system, managing hardware resources and enabling applications to interact with hardware, while the application layer consists of user-facing software that relies on the kernel to perform tasks like resource allocation, process management, and device interaction
 4. [Chapter 4 - Threading](./docs/threading.md)
     - Threading allows a single process to perform multiple tasks simultaneously using separate threads, improving performance and responsiveness by sharing memory and requiring careful management to avoid conflicts like race conditions and deadlocks.
-5. [Chapter 5 - Virtualization vs. Containerization](./docs/virtualization-n-vs-containerization.md)
-    - TO DO
-6. [Chapter 6 - Virtualization](./docs/virtualization.md)
-    - TO DO
+5. [Chapter 5 - Virtualization vs. Containerization](./docs/virtualizationvscontainerization.md)
+    - Virtualization creates virtual machines with their own operating systems, offering strong isolation and flexibility but with higher resource use and slower performance. Containerization, on the other hand, is more lightweight and faster, sharing the host OS for efficiency, though it lacks full isolation and flexibility compared to VMs.
+6. [Chapter 6 - Ubuntu For Macs](./docs/ubuntuformac.md)
+    - Ubuntu is an open-source operating system popular for development. Installing it on a Mac allows you to dual-boot or switch between macOS and Ubuntu, enhancing flexibility for development work.
 7. [Chapter 7 - The Twelve Factors](./docs/12factor.md)
     - The Twelve-Factor App methodology defines best practices for building scalable and maintainable SaaS applications
 8. [Chapter 8 - Scaling](./docs/scaling.md)
-    - TO DO
+    - Vertical scaling adds more power (CPU, RAM, storage) to a single machine, making it simple to implement but limited by capacity and cost, with a risk of downtime if the machine fails. Horizontal scaling adds more machines, improving fault tolerance and traffic handling, but requires a more complex, distributed application design.
+9. [Chapter 9 - Docker vs. Kubernetes](./docs/dockervskubernetes.md)
+    - Docker is simple, portable, and efficient for running containers but lacks advanced orchestration for large-scale applications. Kubernetes, though more complex, excels in managing and scaling container clusters with powerful orchestration and self-healing features.
 
 
 ---
